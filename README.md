@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbemekou
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in cybersecurity development projects
 
 
 <!---
